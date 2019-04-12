@@ -1,20 +1,20 @@
-# NumPy Exercises
+# NumPy 题库
 
-In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
+在数字计算领域里用 Python 和 NumPy 都是不可或缺的基础。我正在写一些简单的 (针对每个问题用几行代码来解决) 却希望能有助于在每个 numpy 函数上的练习教程。大纲如下：
 
-  * Array creation routines (DONE)
-  * Array manipulation routines (DONE)
-  * String operations (DONE)
-  * Numpy-specific help functions (DONE)
-  * Input and output (DONE)
-  * Linear algebra (DONE)
-  * Discrete Fourier Transform (DONE)
-  * Logic functions (DONE)
-  * Mathematical functions (DONE)
-  * Random sampling (numpy.random) (DONE)
-  * Set routines (DONE)
-  * Sorting, searching, and counting (DONE)
-  * Statistics (DONE)
+  * 阵列建立路线 (已完成)
+  * 阵列操作路线 (已完成)
+  * 字符串操作 (已完成)
+  * Numpy 具体的帮助函数 (已完成)
+  * 输入与输出 (已完成)
+  * 线性代数 (已完成)
+  * 离散傅立叶变形 (已完成)
+  * 逻辑函数 (已完成)
+  * 数学函数 (已完成)
+  * 随机取样 (numpy.random) (已完成)
+  * 集合路线 (已完成)
+  * 排序、搜索与数算 (已完成)
+  * 统计 (已完成)
 
-Nov., 2016
+2016年11月秋
 Kyubyong
